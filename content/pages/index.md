@@ -148,7 +148,7 @@ sections:
           self:
             padding:
               - pt-0
-              - pl-7
+              - pl-8
               - pb-0
               - pr-0
             textAlign: center
