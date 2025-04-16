@@ -147,10 +147,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-14
-              - pl-14
-              - pb-14
-              - pr-14
+              - pt-0
+              - pl-0
+              - pb-0
+              - pr-0
             textAlign: center
             borderRadius: none
             flexDirection: col
