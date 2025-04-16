@@ -149,7 +149,7 @@ sections:
             padding:
               - pt-0
               - pl-0
-              - pb-0
+              - pb-11
               - pr-0
             textAlign: center
             borderRadius: none
